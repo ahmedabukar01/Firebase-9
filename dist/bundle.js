@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("console.log('hi five from index.js');\n\n//# sourceURL=webpack://firebase-nine/./src/index.js?");
+eval("console.log('hi22 five from index.js');\n\n//# sourceURL=webpack://firebase-nine/./src/index.js?");
 
 /***/ })
 
